@@ -104,3 +104,6 @@ let trabajadores =[
  let busqueda1 =trabajadores.filter(trabajador=>trabajador.posicion=="Developer")
  console.log(busqueda1)
  
+
+console.log("Pou")
+
